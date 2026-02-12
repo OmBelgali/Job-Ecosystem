@@ -1,0 +1,12 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+  - "infra"
+  - "scripts"
+  - "docs"
+  - "assets"
+  - "output"
+  - "tmp"
+packages:
+  - "apps/*"
+  - "packages/*"

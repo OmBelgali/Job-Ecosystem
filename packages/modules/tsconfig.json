@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "./dist"
+  },
+  "include": ["auth-profile", "job-tracker", "readiness", "resume", "notifications", "analytics"]
+}
